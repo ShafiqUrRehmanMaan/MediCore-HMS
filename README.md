@@ -1,0 +1,2 @@
+# MediCore-HMS
+first project 
